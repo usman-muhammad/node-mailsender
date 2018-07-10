@@ -45,7 +45,7 @@ nodeMailsender.SES(options).then((nodeMailer)=> {
 ```
 nodeMailsender.nodeMailer(options) and nodeMailsender.SES(options) return Promise which can be used using async await.
 ## Instalattion requirement
-- [Node.js](https://nodejs.org/) >=7.6 to run.
+- [Node.js](https://nodejs.org/) >=7.6 to run. IF async and await will be used.
 
 License
 ----
