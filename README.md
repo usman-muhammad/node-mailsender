@@ -1,6 +1,6 @@
 # node-mailsender
 
-This package return different email sender instance form one package which you can use in your application to send email. Currently its support [AWS SES](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SES.html) and [NodeMailer](https://nodemailer.com/about/).
+This package return different email sender instance form one package which can be used in application to send email. Currently its support [AWS SES](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/SES.html) and [NodeMailer](https://nodemailer.com/about/).
 ```sh
 npm i node-mailsender
 npm i -s node-mailsender  // to save as package dependencies
