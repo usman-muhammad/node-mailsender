@@ -1,0 +1,26 @@
+{
+  "name": "node-mailsender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard index lib/*",
+    "lint-fix": "standard --fix index lib/* "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "homepage": "https://github.com/owner/project#readme",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "author": "Muhammad Usman",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.270.1",
+    "nodemailer": "^4.6.7",
+    "standard": "^11.0.1"
+  }
+}
