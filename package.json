@@ -1,6 +1,6 @@
 {
 	"name": "node-mailsender",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "This package return different email sender instance form one package which can be used in application to send email. Currently its support AWS SES and NodeMailer.",
 	"main": "index.js",
 	"scripts": {
